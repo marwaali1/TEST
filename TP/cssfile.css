@@ -1,0 +1,16 @@
+body{
+	background-color:white;
+	color:white;
+    }
+h1{
+	font-size:14px;
+  }
+p{
+	margin-left:4em
+}
+strong{
+	border: 3px solid pink;
+    color: black;
+    background-color: white;
+}
+
